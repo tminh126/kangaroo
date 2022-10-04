@@ -1,0 +1,1 @@
+alert('Chào mừng đến với MINH Wikipedia ')
